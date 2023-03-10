@@ -3,5 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "adrian valencia <adrian15996@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type":"module"
 }
